@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tyler's Web Server</title>
+</head>
+
+<body>
+
+<h2>About</h2>
+
+<p>I like to drink milk</p>
+<br><hr><br>
+
+<h2>Projects</h2>
+
+<ol>
+
+<li>Bally</li>
+<li>Learning Suite</li>
+<li>TBA Indie Game</li>
+
+</ol>
+
+<br><hr><br>
+
+<h2>Experience</h2>
+
+<ul>
+<li>Copy Center Attendant</li>
+<li>Web Developer for the Center for Teaching and Learning</li>
+</ul>
+
+<br><hr>
+<br>
+
+<h2>Contact</h2>
+<ul>
+<li><a href="www.linkedin.com/in/tyler-apsley-517702119/">LinkedIn</a></li>
+<ul>
+
+</body>
+</html> 
